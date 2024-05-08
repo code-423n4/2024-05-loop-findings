@@ -1,0 +1,2 @@
+## Low-1: 1 to 1 conversion invariant not satisfied
+Due to possibility of sending tokens directly to the contract through `receive()`, the `ETH` balance in the contract can be bigger than `totalSupply`, as a result users who locked `ETH/WETH` may receive more `lpETH`  during `claim()` than the `ETH` value their locked. There is no loss to the users who claimed as they are going to receive more than they are due, but this breaks one of the main invariants defined in the readme "Users that deposit ETH/WETH get the correct amount of lpETH on claim (1 to 1 conversion)".
