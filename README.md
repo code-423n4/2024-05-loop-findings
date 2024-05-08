@@ -15,7 +15,7 @@ Unless otherwise discussed, this repo will be made public after audit completion
 Sponsors have three critical tasks in the audit process: Reviewing the two lists of curated issues, and once you have mitigated your findings, sharing those mitigations. 
 
 1. [Respond to curated High- and Medium-risk submissions ↓](#1-respond-to-curated-high--and-medium-risk-submissions)
-2. [Respond to curated Low/Non-critical submissions and Gas optimizations ↓](#2-respond-to-curated-lownon-critical-submissions-and-gas-optimizations)
+2. [Respond to curated Low/Non-critical submissions and Gas optimizations ↓](#2-respond-to-curated-lownon-critical-submissions)
 3. [Share your mitigation of findings (optional) ↓](#3-share-your-mitigation-of-findings-optional)
 
 Note: It’s important to be sure to **only review issues from the curated lists.** There are two lists of curated issues to review, which filter out duplicate issues that don't require your attention.
@@ -58,7 +58,7 @@ Note: Adding or changing labels other than those in this list will be automatica
 
 ## 2. Respond to curated Low/Non-critical submissions
 
-### [Low/Non-critical submissions for review →](../../issues?q=is%3Aopen+is%3Aissue+-label%3A"sponsor+acknowledged"%2C"sponsor+confirmed"%2C"sponsor+disputed"+label%3A"QA+(Quality+Assurance)"+label%3A"grade-a"%2C"selected+for+report"%2C"high+quality+report")
+### [Low/Non-critical submissions for review →](../../issues?q=is%3Aopen+is%3Aissue+-label%3A"sponsor+acknowledged"%2C"sponsor+confirmed"%2C"sponsor+disputed"+label%3A"QA+(Quality+Assurance)")
 
 <sup>This curated list will shorten as you work. [View the original, longer list →](../../issues?q=is%3Aopen+is%3Aissue+label%3A"QA+(Quality+Assurance)")</sup>
 
