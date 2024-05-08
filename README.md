@@ -50,7 +50,7 @@ For each curated High or Medium risk finding, please:
 - `sponsor disputed`, meaning either: "We cannot duplicate this issue" or "We disagree that this is an issue at all."
 - `sponsor acknowledged`, meaning: "Yes, technically the issue is correct, but we are not going to resolve it for xyz reasons."
 
-Add any necessary comments explaining your rationale for your evaluation of the issue. Judges have the ultimate discretion in determining validity and severity of issues, as well as whether/how issues are considered duplicates. However, sponsor input is a significant criterion.
+Add any necessary comments explaining your rationale for your evaluation of the issue. Judges have the ultimate discretion in determining validity and [severity](https://docs.code4rena.com/roles/wardens/judging-criteria#estimating-risk-tl-dr) of issues, as well as whether/how issues are considered duplicates. However, sponsor input is a significant criterion.
 
 Note: Adding or changing labels other than those in this list will be automatically reverted by our bot, which will note the change in a comment on the issue.
 
