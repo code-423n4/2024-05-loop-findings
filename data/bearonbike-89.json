@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "bearonbike",
+  "risk": "2",
+  "title": "If allowed token have vulnerability been found, there is no way to remove it, which could harm the protocol",
+  "issueId": 89,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/89",
+  "originalIssueId": 289,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/289"
+}
