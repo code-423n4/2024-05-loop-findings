@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "umarkhatab_465",
+  "risk": "2",
+  "title": "Lack of method for removing allowedTokens can brick the system",
+  "issueId": 91,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/91",
+  "originalIssueId": 232,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/232"
+}
