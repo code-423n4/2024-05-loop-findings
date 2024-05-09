@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "nnez",
+  "risk": "3",
+  "title": "Malicious users can steal their locked LRT back by inserting their own token as an intermediary",
+  "issueId": 62,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/62",
+  "originalIssueId": 70,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/70"
+}
