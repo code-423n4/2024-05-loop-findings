@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "jesjupyter",
+  "risk": "2",
+  "title": "User may claim more LpETH due to ETH being mistakenly sent to the contract",
+  "issueId": 44,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/44",
+  "originalIssueId": 111,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/111"
+}
