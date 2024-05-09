@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "deliriusz",
+  "risk": "2",
+  "title": "The contract lacks of a setter to disallow a token",
+  "issueId": 87,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/87",
+  "originalIssueId": 325,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/325"
+}
