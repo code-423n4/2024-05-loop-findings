@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "0xSecuri",
+  "risk": "3",
+  "title": "Direct ETH transfer to the protocol will break one of its main invariants",
+  "issueId": 43,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/43",
+  "originalIssueId": 113,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/113"
+}
