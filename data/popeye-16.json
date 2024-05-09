@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "popeye",
+  "risk": "3",
+  "title": "Inconsistent Emergency Mode Handling in `withdraw` Function",
+  "issueId": 16,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/16",
+  "originalIssueId": 217,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/217"
+}
