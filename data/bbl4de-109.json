@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "bbl4de",
+  "risk": "3",
+  "title": "Assumption that if the swap is purely on `UniswapV3` then the selector is the `UNI_SELECTOR` is incorrect causing the `_validateData()` function to revert",
+  "issueId": 109,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/109",
+  "originalIssueId": 156,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/156"
+}
