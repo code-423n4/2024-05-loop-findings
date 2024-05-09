@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "atoko",
+  "risk": "2",
+  "title": "Inaccurate Calculation of lpETH During Token Claiming",
+  "issueId": 36,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/36",
+  "originalIssueId": 176,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/176"
+}
