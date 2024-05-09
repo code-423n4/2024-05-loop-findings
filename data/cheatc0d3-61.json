@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "cheatc0d3",
+  "risk": "2",
+  "title": "Persistent malicious or faulty tokens due to the lack of functionality to disallow tokens",
+  "issueId": 61,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/61",
+  "originalIssueId": 359,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/359"
+}
