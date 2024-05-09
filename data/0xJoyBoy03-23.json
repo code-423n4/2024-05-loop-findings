@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "0xJoyBoy03",
+  "risk": "3",
+  "title": "Users can raise the `lpETH` tokens out of the locking process",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/23",
+  "originalIssueId": 372,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/372"
+}
