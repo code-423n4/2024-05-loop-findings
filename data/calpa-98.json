@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "calpa",
+  "risk": "2",
+  "title": "Consider adding disallowToken instead of only allowToken function",
+  "issueId": 98,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/98",
+  "originalIssueId": 15,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/15"
+}
