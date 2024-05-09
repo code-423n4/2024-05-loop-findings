@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "0xDemon",
+  "risk": "3",
+  "title": "Claims that are not paused during `emergencymode` can cause users to get more `lpETH` than the amount of `ETH` they have locked",
+  "issueId": 81,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/81",
+  "originalIssueId": 161,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/161"
+}
