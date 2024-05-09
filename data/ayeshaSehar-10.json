@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "ayeshaSehar",
+  "risk": "2",
+  "title": "Recipient address(0) may result in loss of funds",
+  "issueId": 10,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/10",
+  "originalIssueId": 251,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/251"
+}
