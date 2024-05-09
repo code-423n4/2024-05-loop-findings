@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "bbl4de",
+  "risk": "2",
+  "title": " The `_claim()` function `claimedAmount` calculations causes the `lpETH` to `ETH` conversion rate inflate and not equal 1:1",
+  "issueId": 39,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/39",
+  "originalIssueId": 130,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/130"
+}
