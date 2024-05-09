@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "pashap9990",
+  "risk": "2",
+  "title": "Lenders cannot claim their tokens in some cases",
+  "issueId": 102,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/102",
+  "originalIssueId": 132,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/132"
+}
