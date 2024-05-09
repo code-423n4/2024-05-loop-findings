@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "0xe4669da",
+  "risk": "2",
+  "title": "[M-02] Once a token is allowed using `PrelaunchPoints::allowToken` function, there is no way to disallow",
+  "issueId": 88,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/88",
+  "originalIssueId": 320,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/320"
+}
