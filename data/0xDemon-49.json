@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "0xDemon",
+  "risk": "3",
+  "title": "Race condition on `PrelaunchPoints::_claim()` allow malicious actor deposit all other user `ETH` to `lpETHVault` to get `lpETH` more than they should be",
+  "issueId": 49,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/49",
+  "originalIssueId": 91,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/91"
+}
