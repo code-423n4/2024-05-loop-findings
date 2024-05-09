@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "Afriauditor",
+  "risk": "3",
+  "title": "User Balance Overdeduction Due to incomplete swap of inputTokenAmount in the UniswapV3 pool resulting in loss of funds to users in edge case",
+  "issueId": 65,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/65",
+  "originalIssueId": 270,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/270"
+}
