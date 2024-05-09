@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "sldtyenj12",
+  "risk": "3",
+  "title": "User can bypass the locking mechanism and still be able to get as big amount of `lpETH` as he wants",
+  "issueId": 27,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/27",
+  "originalIssueId": 239,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/239"
+}
