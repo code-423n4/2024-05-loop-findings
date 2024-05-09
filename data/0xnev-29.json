@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "0xnev",
+  "risk": "3",
+  "title": "Malicious user can lock all funds using wrapped LRT from being claimed via a direct donation",
+  "issueId": 29,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/29",
+  "originalIssueId": 271,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/271"
+}
