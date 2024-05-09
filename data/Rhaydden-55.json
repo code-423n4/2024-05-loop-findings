@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "Rhaydden",
+  "risk": "2",
+  "title": "Potential Over-Issuance of lpETH Due to Unaccounted ETH Deposits Before Claim and Stake Operations",
+  "issueId": 55,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/55",
+  "originalIssueId": 35,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/35"
+}
