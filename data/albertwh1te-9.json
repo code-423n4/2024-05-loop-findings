@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "albertwh1te",
+  "risk": "3",
+  "title": "The absence of a zero address check when users transfer tokens in the `_validateData` function can result in the loss of user funds.",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/9",
+  "originalIssueId": 351,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/351"
+}
