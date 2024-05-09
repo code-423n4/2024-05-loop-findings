@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "0xrex",
+  "risk": "3",
+  "title": "User can game rewarding system siphoning rewards for themselves at a huge margin to other stakers when it shouldn't be possible",
+  "issueId": 48,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/48",
+  "originalIssueId": 57,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/57"
+}
