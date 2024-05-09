@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "bbl4de",
+  "risk": "2",
+  "title": " The `withdraw()` function forces users to claim `lpETH` even in emergency mode",
+  "issueId": 77,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/77",
+  "originalIssueId": 131,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/131"
+}
