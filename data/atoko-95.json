@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "atoko",
+  "risk": "2",
+  "title": "`recoverERC20` token  Failure if Owner is Blacklisted",
+  "issueId": 95,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/95",
+  "originalIssueId": 184,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/184"
+}
