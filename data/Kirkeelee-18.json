@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "Kirkeelee",
+  "risk": "2",
+  "title": "User can claim lpETH if the token is first allowed then disallowed ",
+  "issueId": 18,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/18",
+  "originalIssueId": 345,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/345"
+}
