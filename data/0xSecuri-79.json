@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "0xSecuri",
+  "risk": "2",
+  "title": "Permanent token whitelisting in protocol poses exploitation risks",
+  "issueId": 79,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/79",
+  "originalIssueId": 157,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/157"
+}
