@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "Afriauditor",
+  "risk": "2",
+  "title": "Whitelisting Prevents Recovery of Mistakenly Sent Tokens via `recoverERC20`",
+  "issueId": 94,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/94",
+  "originalIssueId": 212,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/212"
+}
