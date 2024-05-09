@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "Afriauditor",
+  "risk": "2",
+  "title": "Permanent Whitelisting in PrelaunchPoints Contract Poses Security Risks",
+  "issueId": 93,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/93",
+  "originalIssueId": 216,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/216"
+}
