@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "Mahmud",
+  "risk": "2",
+  "title": "Potential Loss of ETH to Zero Address on Claim",
+  "issueId": 13,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/13",
+  "originalIssueId": 165,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/165"
+}
