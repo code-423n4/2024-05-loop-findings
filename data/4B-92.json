@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "4B",
+  "risk": "2",
+  "title": "Tokens cannot be removed from Allowedlist once added",
+  "issueId": 92,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/92",
+  "originalIssueId": 222,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/222"
+}
