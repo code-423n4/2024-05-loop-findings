@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "y4y",
+  "risk": "2",
+  "title": "It's possible for an user to withdraw ERC20 tokens even at non-allowed periods",
+  "issueId": 99,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/99",
+  "originalIssueId": 225,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/225"
+}
