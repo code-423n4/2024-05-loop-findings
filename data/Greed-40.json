@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "Greed",
+  "risk": "3",
+  "title": "Users can still \"deposit\" in order to mint more `lpETH` than they have locked during the lock-up period",
+  "issueId": 40,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/40",
+  "originalIssueId": 129,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/129"
+}
