@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "Rhaydden",
+  "risk": "3",
+  "title": "Incorrect Handling of Contract's ETH Balance in _claim Function",
+  "issueId": 70,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/70",
+  "originalIssueId": 28,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/28"
+}
