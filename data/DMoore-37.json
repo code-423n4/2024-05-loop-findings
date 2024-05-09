@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "DMoore",
+  "risk": "2",
+  "title": "Malicious users could bypass the lock process to claim any amount of lpETH",
+  "issueId": 37,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/37",
+  "originalIssueId": 192,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/192"
+}
