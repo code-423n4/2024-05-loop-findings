@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "Afriauditor",
+  "risk": "2",
+  "title": "function `_validateData` Allows recipient to be set to zero address if `if (_exchange == Exchange.UniswapV3)`",
+  "issueId": 11,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/11",
+  "originalIssueId": 215,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/215"
+}
