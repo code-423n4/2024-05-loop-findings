@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "0xblackskull",
+  "risk": "2",
+  "title": "Missing Token Removal Functionality",
+  "issueId": 84,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/84",
+  "originalIssueId": 363,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/363"
+}
