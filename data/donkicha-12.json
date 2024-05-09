@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "donkicha",
+  "risk": "3",
+  "title": "Wrong `if` statement in the `_validateData` function causes the `claim` function always to revert when claiming tokens that are not ETH",
+  "issueId": 12,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/12",
+  "originalIssueId": 200,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/200"
+}
