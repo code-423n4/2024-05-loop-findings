@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "Greed",
+  "risk": "3",
+  "title": "Users are able to withdraw their LRT tokens 7 days after loopActivation is set and earn points without swapping their `LRT` for `lpETH`",
+  "issueId": 66,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/66",
+  "originalIssueId": 264,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/264"
+}
