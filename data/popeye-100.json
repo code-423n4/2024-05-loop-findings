@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "popeye",
+  "risk": "2",
+  "title": "Out-of-Bounds Access in `_decodeUniswapV3Data` ",
+  "issueId": 100,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/100",
+  "originalIssueId": 219,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/219"
+}
