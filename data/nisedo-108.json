@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "nisedo",
+  "risk": "2",
+  "title": "`claim()` and `claimAndStake()` Will Not Work with UniswapV3 as the Exchange Parameter",
+  "issueId": 108,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/108",
+  "originalIssueId": 127,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/127"
+}
