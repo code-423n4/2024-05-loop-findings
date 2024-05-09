@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "Sajjad",
+  "risk": "3",
+  "title": "it is possible to claim `lpETH` anytime after the `startClaimDate` without locking assets from before",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/6",
+  "originalIssueId": 167,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/167"
+}
