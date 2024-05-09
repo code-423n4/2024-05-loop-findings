@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "yovchev_yoan",
+  "risk": "3",
+  "title": "[H-1] `PrelaunchPoints::lock, lockFor` allows a users to lock s small amount of LRT token and then force ether into the contract claiming as much lpETH as they want, removing the risk of locking a lot of tokens and braking the 2nd invariant",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/26",
+  "originalIssueId": 238,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/238"
+}
