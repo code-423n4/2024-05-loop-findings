@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "ParthMandale",
+  "risk": "2",
+  "title": "Incorrect Validation Logic for Swap Recipient Address in `function _validateData`",
+  "issueId": 7,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/7",
+  "originalIssueId": 403,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/403"
+}
