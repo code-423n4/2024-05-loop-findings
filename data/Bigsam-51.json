@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "Bigsam",
+  "risk": "3",
+  "title": "Report on Incorrect Assumption in Contract Functionality giving users more LPETH THAN THEIR SWAPPED AMOUNT",
+  "issueId": 51,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/51",
+  "originalIssueId": 84,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/84"
+}
