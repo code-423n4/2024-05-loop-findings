@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "sandy",
+  "risk": "3",
+  "title": "Malicious user can claim any amount of ``lpeth`` and stake that amount without depositing equivalent amount of ETH/WETH or other LRT's in a specific case.",
+  "issueId": 20,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/20",
+  "originalIssueId": 382,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/382"
+}
