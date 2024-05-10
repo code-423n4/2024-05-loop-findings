@@ -38,9 +38,9 @@ Any warden submissions in the QA category are submitted as bulk listings of issu
 
 ## 1. Respond to curated High- and Medium-risk submissions
 
-### [High/Medium-risk findings for review →](../../issues?q=is%3Aopen+is%3Aissue+label%3A%222+(Med+Risk)%22%2C%223+(High+Risk)%22+-label%3A%22unsatisfactory%22%2C%22insufficient+quality+report%22%2C%22sponsor+acknowledged%22%2C%22sponsor+confirmed%22%2C%22sponsor+disputed%22+)
+### [High/Medium-risk findings for review →](../../issues?q=is%3Aopen+is%3Aissue+label%3A%222+%28Med+Risk%29%22%2C%223+%28High+Risk%29%22+label%3A%3Arobot%3A_primary++-label%3A%22unsatisfactory%22%2C%22insufficient+quality+report%22%2C%22sponsor+acknowledged%22%2C%22sponsor+confirmed%22%2C%22sponsor+disputed%22+)
 
-<sup>This curated list will shorten as you work. [View the original, longer list →](../../issues?q=is%3Aopen+is%3Aissue+label%3A"2+(Med+Risk)"%2C"3+(High+Risk)"+-label%3A"unsatisfactory"%2C"insufficient+quality+report")</sup>
+<sup>This curated list will shorten as you work. [View the original, longer list →](../../issues?q=is%3Aopen+is%3Aissue+label%3A%222+%28Med+Risk%29%22%2C%223+%28High+Risk%29%22+label%3A%3Arobot%3A_primary++-label%3A%22unsatisfactory%22%2C%22insufficient+quality+report)</sup>
 
 For each curated High or Medium risk finding, please:
 
