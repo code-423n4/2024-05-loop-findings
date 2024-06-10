@@ -1,0 +1,10 @@
+{
+  "contest": 371,
+  "handle": "SBSecurity",
+  "risk": "3",
+  "title": "Ethers sent to the contract can be stolen from any user",
+  "issueId": 136,
+  "issueUrl": "https://github.com/code-423n4/2024-05-loop-findings/issues/136",
+  "originalIssueId": 341,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-loop-validation/issues/341"
+}
